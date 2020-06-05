@@ -1,5 +1,6 @@
 ﻿<?php
 include 'calc.php';
+echo "Adad";
 ?>
 <form action="/index.php" method="POST">
  <input type="text" name="x">
